@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jndjjfrnjhgn.github.io/omar-foda/sitemap.xml
